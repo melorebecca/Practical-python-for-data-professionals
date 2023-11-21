@@ -1,7 +1,10 @@
 # Practical Python for Data Professionals
 This is the repository for the LinkedIn Learning course Practical Python for Data Professionals. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+![Practical Python for Data Professionals][lil-thumbnail-url] 
+
+As data and data-related jobs have grown over the past decade, so has the demand for data skills. If you’re a data professional, this is great news! However, it’s important to continue to adapt to the changing demands of the market, which include adopting tools like Python to approach big data challenges. In this course, Sarah Nooravi shares a practical, project-based examination of Python, covering the skills needed to help you stand out among others in a competitive market. Sarah walks through an end-to-end Python analysis, typical of what you would encounter on the job– starting from the problem statement and takes you all the way through to insight delivery. Sarah helps you break down the problem, set expectations, and covers best practices around data cleaning, data visualization and storytelling. Lastly, she also shares common pitfalls and critical business and soft skills that will help you stand out.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -20,15 +23,16 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+
+### Instructor
+
+Sarah Nooravi 
+                            
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+                            
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/sarah-nooravi).
 
+[lil-course-url]: https://www.linkedin.com/learning/practical-python-for-data-professionals?dApp=59033956
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQETD1gwhfHXzQ/learning-public-crop_288_512/0/1679070533731?e=2147483647&v=beta&t=cZOv2OkBmFcHpa85T8J5E5ai2zUFA4t_BafI2FJ2HRQ
